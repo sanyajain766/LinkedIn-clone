@@ -1,1 +1,1 @@
-# LinkedIn-clone
+# LinkedIn-clone using ReactJS and Redux
